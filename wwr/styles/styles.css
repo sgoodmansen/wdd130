@@ -28,11 +28,12 @@ header {
 nav a {
     text-align: center;
     text-decoration: none;
+    color: white;
 }
 
 nav a:hover {
-    background-color: #0e2fbf;
-    color: white;
+    background-color: #d4ac0d;
+    color: black;
     text-decoration:underline;
 }
 
